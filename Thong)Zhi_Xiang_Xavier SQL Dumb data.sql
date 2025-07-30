@@ -1,0 +1,1 @@
+SELECT * FROM CA2WORK_alphabetit.users;
